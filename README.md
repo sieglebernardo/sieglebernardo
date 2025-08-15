@@ -1,6 +1,5 @@
-# 👋 Olá, eu sou o Bernardo Siegle
+# Olá, eu sou o Bernardo Siegle!!!
 
-📎 **Conecte-se comigo**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bernardo--siegle-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bernardo-siegle)  
 [![Instagram](https://img.shields.io/badge/Instagram-@bernardosiegle__-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/bernardosiegle_/)  
 [![Email](https://img.shields.io/badge/Email-bernardo.siegle@outlook.com-red?style=for-the-badge&logo=microsoft-outlook)](mailto:bernardo.siegle@outlook.com)  
