@@ -9,7 +9,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=🌐 Conecte-se comigo)
+## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bernardo--siegle-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bernardo-siegle)
 
 [![Instagram](https://img.shields.io/badge/Instagram-@bernardosiegle__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bernardosiegle_/)
@@ -18,7 +18,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=🧠 Tecnologias que utilizo)
+## 🧠 Tecnologias que utilizo
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" style="margin:10px; background:#ffffff; padding:10px; border-radius:12px;" />
@@ -35,7 +35,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=🐍 Contribuições)
+## 🐍 Contribuições
 <p align="center">
   <img src="https://raw.githubusercontent.com/RogerReinheimer/RogerReinheimer/output/snake.svg" alt="Snake animation"/>
 </p>
