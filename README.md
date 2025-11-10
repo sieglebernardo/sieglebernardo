@@ -10,11 +10,11 @@
 ---
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bernardo--siegle-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bernardo-siegle)
+[![Email](https://img.shields.io/badge/Email-bernardo.siegle@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:bernardo.siegle@outlook.com)
 
 [![Instagram](https://img.shields.io/badge/Instagram-@bernardosiegle__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bernardosiegle_/)
 
-[![Email](https://img.shields.io/badge/Email-bernardo.siegle@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:bernardo.siegle@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bernardo--siegle-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bernardo-siegle)
 
 ---
 
