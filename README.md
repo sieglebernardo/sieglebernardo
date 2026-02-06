@@ -1,11 +1,9 @@
 # 👋 Olá, eu sou o **Bernardo Siegle**  
 
  
-🚀 Apaixonado por tecnologia e inovação.
+💡 Apaixonado por tecnologia e inovação.
 
-🎯 Curso Técnico em Informática no Instituto Ivoti e estudo de forma independente na Alura.
-
-💡 Em constante aprendizado e evolução!
+🎯 Em constante aprendizado e evolução!
 
 ---
 
